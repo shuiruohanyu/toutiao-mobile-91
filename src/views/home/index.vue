@@ -1,5 +1,9 @@
 <template>
-  <div>主页组件</div>
+  <div>
+    <van-button type="primary">
+      主页
+    </van-button>
+  </div>
 </template>
 
 <script>
